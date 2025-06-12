@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there! I'm Shobika 👋
 
-<!--
-**shobikadeveloper/shobikadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BCA student at Sri Ramakrishna College  
+💖 Passionate about Web Development  
+🛠️ Skills: HTML, PHP, MySQL, Python (Basic)  
+📁 Projects:
+- [Volunteer Opportunities Platform](https://github.com/shobikadeveloper/volunteer-platform)
+- [Portfolio Website](https://github.com/shobikadeveloper/)
 
-Here are some ideas to get you started:
+✨ I'm always learning and building!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Email: shobikapalaniswamy@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shobika12)
