@@ -5,7 +5,7 @@
 🛠️ Skills: HTML, PHP, MySQL, Python (Basic)  
 📁 Projects:
 - [Volunteer Opportunities Platform](https://github.com/shobikadeveloper/volunteer-platform)
-- [Portfolio Website](https://github.com/shobikadeveloper/)
+- [medicine-recommendation-website](https://github.com/shobikadeveloper/medicine-recommendation-website)
 
 ✨ I'm always learning and building!
 
