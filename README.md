@@ -10,4 +10,5 @@
 ✨ I'm always learning and building!
 
 📫 Email: shobikapalaniswamy@gmail.com  
+🔗 GitHub: github.com/shobikadeveloper
 🔗 [LinkedIn](https://www.linkedin.com/in/shobika12)
